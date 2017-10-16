@@ -3,6 +3,8 @@ project(Data_Communications_and_Networking)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp Project_1/Huffman.cpp Project_1/fuck.cpp)
 add_executable(Data_Communications_and_Networking ${SOURCE_FILES})
 add_executable(q2.LZW_algorithm hw2/LZW_algorithm.cpp)
+add_executable(Huffman Project_1/Huffman.cpp)
+add_executable(fuck Project_1/fuck.cpp)
