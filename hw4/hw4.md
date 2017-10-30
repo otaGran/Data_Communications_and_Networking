@@ -1,6 +1,6 @@
-#A Brief Of LiFi And Its Application
+# A Brief Of LiFi And Its Application
 
-###資工三A   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;李逸鳴 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;410419093
+### 資工三A   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;李逸鳴 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;410419093
 
 
 
