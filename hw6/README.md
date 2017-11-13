@@ -175,7 +175,7 @@ CRC code : 11010011101100 100
 ||||||||||||||||||||0|0|0|
 
 
-###3.Give an example of detect an error.
+### 3.Give an example of detect an error.
 
 
 Fourth bit from the bottom of CRC code ___(0 -> 1)___
