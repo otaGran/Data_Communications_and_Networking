@@ -1,10 +1,10 @@
 
-#HW 6-1: Hamming code
+# HW 6-1: Hamming code
 
 
 
 
-###Encode 11101010 with Hamming code, and give an example of detect and correct error.
+### Encode 11101010 with Hamming code, and give an example of detect and correct error.
 
 |Bit position|1|2|3|4|5|6|7|8|9|10|11|12|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -100,10 +100,10 @@ EX: bit position 6 is wrong __(1 -> 0)__
 ***
 
 
-#HW 6-2: CRC coding
+# HW 6-2: CRC coding
 
 
-###1.Encode 11010011101100 in CRC code,the divisor is 1011.
+### 1.Encode 11010011101100 in CRC code,the divisor is 1011.
 
 
 
@@ -141,7 +141,7 @@ EX: bit position 6 is wrong __(1 -> 0)__
 CRC code : 11010011101100 100
 
 
-###2.Decode the CRC code of above data-code.
+### 2.Decode the CRC code of above data-code.
 
 |1|0|1|1||1|1|0|1|0|0|1|1|1|0|1|1|0|0|1|0|0|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
