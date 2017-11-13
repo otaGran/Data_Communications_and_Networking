@@ -1,4 +1,8 @@
+
 #HW 6-1: Hamming code
+
+
+
 
 ###Encode 11101010 with Hamming code, and give an example of detect and correct error.
 
