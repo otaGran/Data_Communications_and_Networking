@@ -5,7 +5,7 @@
 ***
 
 
-
+![](../image/exposed-terminal-problem.png)
 
 
 * Part I: ARP request message
