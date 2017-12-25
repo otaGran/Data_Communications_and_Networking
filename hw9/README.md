@@ -4,6 +4,8 @@
 
 ***
 
+see also [Project_2](https://github.com/otaGran/Data_Communications_and_Networking/tree/master/Project_2)
+
 ![](../image/Dijkstra-hw.png)
 
 
