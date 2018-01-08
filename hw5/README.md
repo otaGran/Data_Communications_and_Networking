@@ -5,7 +5,7 @@
 ***
 
 
-![](../image/exposed-terminal-problem.png)
+![](../image/request.png)
 
 
 * Part I: ARP request message
@@ -29,19 +29,19 @@
 			Sender MAC address: Tp-LinkT_ed:21:49 (ec:08:6b:ed:21:49)
 	* g. the source protocol address?
 		
-			Sender IP address: 192.168.2.1
+			Sender IP address: 192.168.2.218
 	* h. the destination hardware address.		
 	
 			Target MAC address:00:00:00_00:00:00 (00:00:00:00:00:00)
 			
 	* i. the destination protocol address?		
 
-			Target IP address: 192.168.2.239
+			Target IP address: 192.168.2.1
 	
 	
 ***
 
-
+![](../image/reply.png)
 * Part II: ARP reply message
 
 	* a. the hardware type.
@@ -64,12 +64,12 @@
 			Sender MAC address: Apple_83:56:b3 (ac:bc:32:83:56:b3)
 	* g. the source protocol address?
 		
-			Sender IP address: 192.168.2.239
+			Sender IP address: 192.168.2.1
 	* h. the destination hardware address.		
 	
 			Target MAC address: Tp-LinkT_ed:21:49 (ec:08:6b:ed:21:49)
 			
 	* i. the destination protocol address?		
 
-			Target IP address: 192.168.2.1
+			Target IP address: 192.168.2.218
 	
